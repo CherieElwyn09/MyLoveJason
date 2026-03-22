@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>For Jason ♡</title>
+
+  <style>
+    body {
+      background: linear-gradient(to bottom, #fff0f5, #ffe4ec);
+      font-family: 'Georgia', serif;
+      text-align: center;
+      padding: 40px;
+      color: #444;
+    }
+
+    h1 {
+      color: #ff6f91;
+    }
+
+    p {
+      font-size: 18px;
+      max-width: 600px;
+      margin: 12px auto;
+      line-height: 1.6;
+    }
+
+    button {
+      margin-top: 25px;
+      padding: 10px 20px;
+      border: none;
+      background-color: #ff6f91;
+      color: white;
+      border-radius: 20px;
+      cursor: pointer;
+    }
+
+    iframe {
+      margin-top: 20px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>For Jason ♡</h1>
+
+<!-- LAGU (PASTI MUNCUL) -->
+<iframe width="300" height="170"
+src="https://www.youtube.com/embed/OT5msu-dap8"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
+<br>
+
+<button onclick="showLetter()">open my letter</button>
+
+<div id="letter" style="display:none;">
+
+<p>
+pange… aku kadang masih bingung gimana cara jelasin semua perasaan ini ke kamu.
+rasanya banyak banget, tapi tiap mau ditulis jadi sederhana aja—aku sayang kamu.
+but it’s more than that.
+</p>
+
+<p>
+aku sayang cara kamu hadir di hidup aku,
+bukan cuma di saat aku lagi butuh,
+tapi juga di hari-hari biasa yang tenang.
+the way you care, the way you listen, the way you stay…
+itu semua bikin aku ngerasa aman tanpa harus aku minta.
+</p>
+
+<p>
+jujur aku bukan orang yang sempurna.
+aku masih sering overthinking, masih suka ragu,
+kadang juga nggak ngerti diri sendiri.
+but somehow, with you… everything feels lighter.
+</p>
+
+<p>
+kamu bikin aku ngerasa cukup,
+ngerasa dipilih,
+dan ngerasa berarti.
+</p>
+
+<p>
+i love the little things about you.
+cara kamu ngetik, cara kamu bercanda,
+cara kamu berusaha walaupun kadang kamu sendiri ragu sama diri kamu.
+and i hope you know this…
+aku nggak pernah lihat kamu seburuk yang kamu pikir.
+to me, you’re more than enough.
+</p>
+
+<p>
+aku juga nggak tau cerita kita bakal sejauh apa.
+but for now,
+i just want to be here with you.
+belajar pelan-pelan, tumbuh bareng,
+dan jaga apa yang kita punya sekarang.
+</p>
+
+<p>
+no rush, no pressure…
+just us, being real.
+</p>
+
+<p>
+pange, i love you.
+in the calm, in the chaos,
+in every little moment we share.
+and if i have to choose again,
+i think i’ll still choose you over and over again.
+</p>
+
+</div>
+
+<script>
+function showLetter() {
+  document.getElementById("letter").style.display = "block";
+}
+</script>
+
+</body>
+</html>
